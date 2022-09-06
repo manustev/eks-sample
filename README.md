@@ -1,2 +1,1 @@
-# eks-sample
-eks sample project
+# eks-example
